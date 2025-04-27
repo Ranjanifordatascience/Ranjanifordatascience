@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm currently working as BI analyst under data science team at zuci systems chennai
+I am a passionate Data Science Enthusiast with a strong drive to make an impact in the industry. With hands-on experience in Machine Learning, Deep Learning, Statistical Data Analytics, Generative AI (Gen AI), and Chatbots, I focus on leveraging the power of data to drive innovation.
 
+As an Azure Certified AI Engineer, I specialize in Azure Machine Learning and am constantly looking for opportunities to apply my skills to solve complex, real-world problems. My goal is to use data science to create solutions that not only push the boundaries of technology but also make a tangible difference in various industries.
+
+I thrive on learning and growing in the rapidly evolving field of AI and aim to contribute to cutting-edge projects that challenge the status quo and shape the future.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjani-balasubramanian-874236216) 
